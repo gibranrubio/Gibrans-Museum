@@ -61,8 +61,6 @@ body {
 
 
 .homeScreen { 
-    position: relative;
-   left: -50%;
    height: 100vh;
    width: 100%;
    display: flex;
@@ -197,18 +195,5 @@ body {
 .popUp-info .btn-group .continue-btn:hover {
     background: pink;
     color: #ff740a;
-
-}
-
-.quiz-section {
-    position: relative;
-    left: -50%;
-    width: 100%;
-    background: #00c8ff;
-    transition: .8s ease-in-out;
-}
-
-.quiz-section.active {
-    left: 0;
 
 }
