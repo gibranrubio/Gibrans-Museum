@@ -15,22 +15,9 @@ exitButton.addEventListener("click", () => {
     main.classList.remove("active");
 });
 
-continueButton.addEventListener("click", startGame)
+// continueButton.addEventListener("click", startGame)
    
 
-// logic for Continue Button/Start of Quiz
-
-function startQuiz() {
-
-}
-
-function nextQuestion() {
-
-}
-
-function selectAnswer() {
-
-}
-
+// logic for Continue Button/Start of Qu
 
 
