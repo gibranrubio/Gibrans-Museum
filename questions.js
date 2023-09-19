@@ -92,6 +92,7 @@ let questions = [
     },
 
     {
+        image: "./Images/Background-Merger.png",
         question: "There is print of a very famous jazz player in the hallway. What's his name?",
         choice1: "Dizzy Gillespie",
         choice2: "Miles Davis",
@@ -101,6 +102,7 @@ let questions = [
     },
 
     {
+        image: "./Images/Background-Merger.png",
         question: "There is a painting of a city in the masterbedroom. What city is it?",
         choice1: "Pasadena, CA",
         choice2: "Brooklyn, NY",
@@ -110,6 +112,7 @@ let questions = [
     },
 
     {
+        image: "./Images/Background-Merger.png",
         question: "How many total paintings with frames are in the house?",
         choice1: "21",
         choice2: "24",
