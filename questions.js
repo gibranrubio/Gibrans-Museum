@@ -123,7 +123,7 @@ let questions = [
 ]
 
 const SCORE_POINTS = 1;
-const MAX_QUESTIONS = 10;
+const MAX_QUESTIONS = 11;
 
 startGame = () => {
     questionCounter = 0;
@@ -136,7 +136,7 @@ getNewQuestion = () => {
     if(availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score);
 
-        return window.location.assign('/end.html');
+        return window.location.assign('./gameover.html');
     }
 
     questionCounter++;
