@@ -26,10 +26,9 @@
     pointer-events: none;
 }
 
-/* .container {
-    display: flex;
+.container {
+    /* display: flex; */
     height: 100vh;
-    width: 200%; */
 }
 
 .logo {
@@ -55,8 +54,7 @@
 
 body {
     background-color: #FFF364;
-    overflow: hidden;
-
+    /* overflow: hidden; */
 }
 
 
@@ -311,7 +309,7 @@ input::placeholder {
     box-shadow: none;
 
  }
- 
+
  .leaderboard-gohome-btn {
     align-content: center;
     align-items: center;
@@ -336,7 +334,7 @@ input::placeholder {
     transition: .5s;
 }
 
-leaderboard-gohome-btn:hover {
+.leaderboard-gohome-btn:hover {
     background-color: #ff3f3f;
     box-shadow: none;
 
