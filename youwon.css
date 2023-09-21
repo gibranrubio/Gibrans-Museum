@@ -4,7 +4,7 @@ body {
     flex-direction: column;
     margin-top: 200px;
     background-color: #FFF364;
-        background-image: url("/Images/3-1-scaled-You\ Smell.jpeg");
+        background-image: url("./Images/the-dance-you-win.jpeg");
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
