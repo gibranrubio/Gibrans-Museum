@@ -62,12 +62,12 @@ let questions = [
     },
 
     {
-        image: "./Images/5_Question_Object_Image.png",
-        question: 'What is the name of the painter?',
-        choice1: "Guy Buffet",
-        choice2: "Guy Martini",
-        choice3: "Guy Fieri",
-        answer: 1,
+        image: "./Images/10_Question_Object_Image.jpg",
+        question: 'There is a musical instrument in one of the bedrooms. What is the name of the instrument?',
+        choice1: "Trumpet",
+        choice2: "Bass",
+        choice3: "Guitar",
+        answer: 3,
 
     },
 
@@ -82,42 +82,42 @@ let questions = [
     },
 
     {
-        image: "./Images/6_Question_Object_Image.jpeg",
-        question: "This is a portrait of what famous actress?",
-        choice1: "Elizabeth Taylor",
-        choice2: "Marilyn Monroe",
-        choice3: "Audrey Hepburn",
+        image: "./Images/11_Question_Object_Image.jpg",
+        question: "In the living room there is an art book on the side table next to the couch. What famous art auction house is it from?",
+        choice1: "Christie's",
+        choice2: "Sotheby's",
+        choice3: "Berkshire Hathaway",
+        answer: 1,
+
+    },
+
+    {
+        image: "./Images/9_Question_Object_Image.jpg",
+        question: "There is print of a very famous jazz player in the hallway. What's his name?",
+        choice1: "Dizzy Gillespie",
+        choice2: "Miles Davis",
+        choice3: "John Coltrane",
         answer: 2,
 
     },
 
     {
-        image: "./Images/Background-Merger.png",
-        question: "There is print of a very famous jazz player in the hallway. What's his name?",
-        choice1: "Dizzy Gillespie",
-        choice2: "Miles Davis",
-        choice3: "John Coltrane",
+        image: "./Images/7_Question_Object_Image.jpg",
+        question: "There is a boquet of flowers on the fireplace. What kind of flowers are they?",
+        choice1: "Legos",
+        choice2: "Real flowers",
+        choice3: "Synthetic flowers",
         answer: 1,
 
     },
 
     {
-        image: "./Images/Background-Merger.png",
-        question: "There is a painting of a city in the masterbedroom. What city is it?",
-        choice1: "Pasadena, CA",
-        choice2: "Brooklyn, NY",
-        choice3: "Beverly Hills, CA",
-        answer: 3,
-
-    },
-
-    {
-        image: "./Images/Background-Merger.png",
-        question: "How many total paintings with frames are in the house?",
-        choice1: "21",
-        choice2: "24",
-        choice3: "26",
-        answer: 1,
+        image: "./Images/8_Question_Object_Image.jpg",
+        question: "There is a painting as soon as you walk into the house from the front door. It's my favorite breakfast, what is it?",
+        choice1: "Sardines",
+        choice2: "Eggs",
+        choice3: "Steak",
+        answer: 2,
 
     }
 ]
