@@ -29,10 +29,11 @@ let saveHighScore = e => {
 
 }
 
-if (mostRecentScore > 8) {
-    alert("Someone stayed awake during art class! Way to go, message me on the Airbnb app and we'll schedule a time to go get coffee on me.");
+if (mostRecentScore >= 8) {
+    // alert("Someone stayed awake during art class! Way to go, message me on the Airbnb app and we'll schedule a time to go get coffee on me.");
     window.location.href = "./youwonmessage.html";
 } else {
-    alert("You suck!");
+    // alert("You suck!");
+    window.location.href = "./youlostmessage.html";
 }
 
