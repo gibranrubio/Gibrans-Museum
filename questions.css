@@ -16,14 +16,13 @@ body {
     display: flex;
     align-items: center;
     align-content: center;
-    margin-right: 0.6%;
-    margin-left: 0.5%;
+    margin-left: 10px;
     margin-bottom: 30px;
     width: 100%;
     border-radius: 5px;
     background: rgb(255, 143, 160);
     font-size: 20px;
-    min-width: 20rem;
+    min-width: 10rem;
     max-height: fit-content;
 }
 
