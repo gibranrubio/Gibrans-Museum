@@ -138,15 +138,15 @@ body {
 .popUp h2 {
     
     font-size: 50px;
-    color: #000000;
+    color: #ffffff;
 
 
 }
 
 .popUp .info {
     display: inline-block;
-    font-size: 15px;
-    color: #000000;
+    font-size: 20px;
+    color: #ffffff;
     font-weight: 500;
     margin: 10px 0;
     
