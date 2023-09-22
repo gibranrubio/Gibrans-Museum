@@ -13,7 +13,7 @@ let availableQuestions = {};
 let questions = [
     {
         image: "./Images/1_Question_Object_Image.jpg",
-        question: "This painting is above the chiminey. Who painted it?",
+        question: "This painting is above the chimney. Who painted it?",
         choice1: "Pablo Picasso",
         choice2: "Vincent Van Gogh",
         choice3: "Claude Monet",
@@ -53,7 +53,7 @@ let questions = [
 
     {
         image: "./Images/5_Question_Object_Image.png",
-        question: "There is two paitnings above the bar in the living room. What is the name of this print?",
+        question: "There are two paintings above the bar in the living room. What is the name of this print?",
         choice1: "Making of a Great Martini",
         choice2: "The perfect Martini",
         choice3: "Bartender, one more please",
@@ -103,7 +103,7 @@ let questions = [
 
     {
         image: "./Images/7_Question_Object_Image.jpg",
-        question: "There is a boquet of flowers on the fireplace. What kind of flowers are they?",
+        question: "There is a bouquet of flowers on the fireplace mantel. What kind of flowers are they?",
         choice1: "Legos",
         choice2: "Real flowers",
         choice3: "Synthetic flowers",
