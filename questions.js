@@ -109,7 +109,7 @@ let questions = [
         choice3: "Synthetic flowers",
         answer: 1,
 
-    }
+    },
 
     {
         image: "./Images/8_Question_Object_Image.jpg",
